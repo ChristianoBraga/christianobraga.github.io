@@ -1,4 +1,4 @@
-# Research at TCS Research Group
+# Theoretical Computer Science Research Group
 
 Christiano Braga  
 Universidade Federal Fluminense  
